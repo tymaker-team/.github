@@ -2,7 +2,7 @@
 
 Tymaker automates the process of creating thank-you notes.
 
-[![tymaker](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=tymaker&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/tymaker)
+[![tymaker](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=tymaker&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/tymaker#gh-dark-mode-only)
 [![thxgen.f90](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=thxgen.f90&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/thxgen.f90)
 [![cardgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=cardgen&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/cardgen)
 [![coffee-thxgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=coffee-thxgen&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/coffee-thxgen)
