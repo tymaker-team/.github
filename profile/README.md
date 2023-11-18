@@ -3,9 +3,13 @@
 Tymaker automates the process of creating thank-you notes.
 
 [![tymaker](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=tymaker&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/tymaker#gh-dark-mode-only)
-[![thxgen.f90](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=thxgen.f90&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/thxgen.f90)
-[![cardgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=cardgen&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/cardgen)
-[![coffee-thxgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=coffee-thxgen&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/coffee-thxgen)
+[![tymaker](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=tymaker&theme=light#gh-light-mode-only)](https://github.com/tymaker-team/tymaker#gh-light-mode-only)
+[![thxgen.f90](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=thxgen.f90&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/thxgen.f90#gh-dark-mode-only)
+[![thxgen.f90](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=thxgen.f90&theme=light#gh-light-mode-only)](https://github.com/tymaker-team/thxgen.f90#gh-light-mode-only)
+[![cardgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=cardgen&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/cardgen#gh-dark-mode-only)
+[![cardgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=cardgen&theme=light#gh-light-mode-only)](https://github.com/tymaker-team/cardgen#gh-light-mode-only)
+[![coffee-thxgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=coffee-thxgen&theme=dark#gh-dark-mode-only)](https://github.com/tymaker-team/coffee-thxgen#gh-dark-mode-only)
+[![coffee-thxgen](https://github-readme-stats.vercel.app/api/pin/?username=tymaker-team&repo=coffee-thxgen&theme=light#gh-light-mode-only)](https://github.com/tymaker-team/coffee-thxgen#gh-light-mode-only)
 
 ## Contributors
 - [AntiApple4Life](https://github.com/antiapple4life)
